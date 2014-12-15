@@ -3,8 +3,14 @@
   <ModulePrefs title="hello world example" /> 
   <Content type="html">
      <![CDATA[ 
-       This is a test</BR>
-       <Button>Press</button>
+      
+       <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+   <div id="content_div" height="250px">abc</div>
+
+   <script type="text/javascript">
+        $('#content_div').html('123');
+   </script>
+      
      ]]>
   </Content> 
 </Module>
