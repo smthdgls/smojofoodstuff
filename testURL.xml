@@ -17,4 +17,6 @@ function response(obj) {
 };
 gadgets.util.registerOnLoadHandler(getHtml);
  
+     ]]>
+  </Content> 
 </Module>
