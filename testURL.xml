@@ -3,6 +3,7 @@
   <ModulePrefs title="TestingGet" /> 
   <Content type="html">
      <![CDATA[ 
+ <script>
  function getHtml() {    
   var params = {};  
   params[gadgets.io.RequestParameters.CONTENT_TYPE] = gadgets.io.ContentType.TEXT;  
@@ -16,7 +17,9 @@ function response(obj) {
   document.getElementById('content_div').innerHTML = html;
 };
 gadgets.util.registerOnLoadHandler(getHtml);
+ </script>
  
+ <div id="centent_div"></div>
      ]]>
   </Content> 
 </Module>
