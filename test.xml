@@ -3,8 +3,9 @@
   <ModulePrefs title="hello world example" /> 
   <Content type="html">
      <![CDATA[ 
-       <div style="height:600px;border:solid freen 1px;">
-       This is text
+       <div style="height:600px;border:solid green 1px;">
+       This is text<br>
+       <a href="http:///www.cbc.ca">cbc</a>
        
         </div>
      ]]>
