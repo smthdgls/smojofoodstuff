@@ -3,7 +3,7 @@
   <ModulePrefs title="hello world example" /> 
   <Content type="html">
      <![CDATA[ 
-       <div style="height:600px;border:solid green 1px;background-color:none;">
+       <div style="height:600px;border:solid green 1px;background-color:transparent;">
        This is text<br>
        <a href="http:///www.cbc.ca">cbc</a>
        
