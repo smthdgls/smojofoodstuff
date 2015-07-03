@@ -3,7 +3,7 @@
   <ModulePrefs title="hello world example" /> 
   <Content type="html">
      <![CDATA[ 
-       <div style="height:600px;background-color:transparent;border:thin green solid;">
+       <div style="height:600px;border:solid freen 1px;">
        
         </div>
      ]]>
