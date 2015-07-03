@@ -3,7 +3,9 @@
   <ModulePrefs title="hello world example" /> 
   <Content type="html">
      <![CDATA[ 
-       Hello, world!
+       <div style="height:600px;background-color:azure">
+       
+        </div>
      ]]>
   </Content> 
 </Module>
